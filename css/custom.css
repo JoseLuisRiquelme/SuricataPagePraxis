@@ -12062,3 +12062,24 @@ textarea.form-control-lg {
     display: none !important;
   }
 }/*# sourceMappingURL=custom.css.map */
+
+  
+
+h1, h2 {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+a {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
